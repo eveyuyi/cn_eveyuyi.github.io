@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "成果"
+  - title: "科研成果"
     url: /publications/
 
-  - title: "项目"
+  - title: "项目经历"
     url: /projects/    
 
-  - title: "校园活动"
+  - title: "校园履历"
     url: /activities/    
     
   - title: "技能"
@@ -15,7 +15,7 @@ main:
   - title: "奖项"
     url: /honors/
  
-  - title: "CV"
+  - title: "个人简历"
     url: /cv/
     
   - title: "English"
