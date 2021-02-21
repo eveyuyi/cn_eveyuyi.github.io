@@ -16,7 +16,7 @@ author_profile: true
 
 You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=LhvFkBoAAAAJ&hl) profile.
 
-Journal Publications
+国际期刊论文
 ======
 
 * Yu Y, Cui Y, Zeng J, He C, Wang D (2021) Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications, under review.
@@ -30,37 +30,35 @@ Journal Publications
 * Yu Y, Chen M, Qi H, Wang D (2020) Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. IEEE Access, vol. 8, pp. 32850-32861. (doi:[10.1109/ACCESS.2020.2970530](https://eveyuyi.github.io/files/Copula_Based_Travel_Time_Distribution_Estimation))
 
 
-Patents
+国家发明专利
 ======
 
-* Yu Y, Cui Y, Wang D, Cai Z (2019) Identifying urban traffic state using Automatic number plate recognition data. Applying number: 201911007187.7
-<!-- 基于过车数据的城市路网交通运行态势评价方法 201911007187.7-->
+* 俞怡, 崔岩磊, 王殿海, 蔡正义 (2019) 基于过车数据的城市路网交通运行态势评价方法. 专利申请号: 201911007187.7
 
-* Yu Y, Cai M (2020) Identifying Method, device, equipment, and medium for discovering user group in service application. Applying number: 202011166175.9 
-<!-- 发现服务应用中的用户群的方法、装置、设备和介质202011166175.9 -->
+* 俞怡, 蔡民超 (2020) 发现服务应用中的用户群的方法、装置、设备和介质. 专利申请号: 202011166175.9 
 
-* Yu Y, Dai G, Fang H, Cai M (2020) Method, device, equipment, and medium for identifying problem users. Applying number: 202011166170.9
-<!-- 用于确定问题用户的方法、装置、设备和介质  202011166170.9 -->
+* 俞怡, 戴桂婷, 方环, 蔡民超 (2020) 用于确定问题用户的方法、装置、设备和介质. 专利申请号: 202011166170.9
 
-* Yu Y, Cheng Y, Cai M (2020) Method, device, electronic equipment, and storage medium for detecting cheating behavior. Applying number: 202010962524.4
-<!-- 检测作弊行为的方法、装置、电子设备和存储介质 202010962524.4 -->
+* 俞怡, 陈应开泰, 蔡民超 (2020) 检测作弊行为的方法、装置、电子设备和存储介质. 专利申请号: 202010962524.4
 
-* Yu Y, Cai M, Gu Z (2020) Method, device, server, and computer storage medium for order processing. Applying number: 202011066339.3
-<!-- 订单处理方法、装置、服务器及计算机存储介质 202011066339.3 -->
+* 俞怡, 蔡民超, 顾赵凯鹭 (2020) 订单处理方法、装置、服务器及计算机存储介质. 专利申请号: 202011066339.3
 
-* Wang X, Yu Y (2020) An insulin pen needle recovery device.
-<!-- 一种胰岛素笔针头回收装置 -->
+* 何春光, 王殿海, 蔡正义, 曾佳琪, 俞怡, 金盛 (2021) 基于行程时间概率最大的车牌匹配方法.
 
-* He C, Wang D, Cai Z, Zeng J, Yu Y, Jing S (2021) License plate matching method based on maximum travel time probability.
-<!-- 基于行程时间概率最大的车牌匹配方法 -->
+
+国家实用新型专利
+======
+
+*  一种胰岛素笔针头回收装置 (2020)
+
 
 
 Software
 ======
 
-* Zhejiang University (2018) Urban Traffic Big Data Analysis System. No.2018SR1005011
+* 浙江大学 (2018) 城市交通大数据分析应用系统. No.2018SR1005011
 
-* Zhang Y, Li D, Yu H, Wang H, Yu Y, Wang J (2019) Intelligent Recruitment Platform in Construction Software. No.2019SR0784094
+* 张一丹, 李丹, 俞洪良, 王昊阳, 俞怡, 王嘉伦 (2019) 易招建筑业智能施工人员招工软件. No.2019SR0784094
 
 
 
