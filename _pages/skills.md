@@ -1,41 +1,41 @@
 ---
-title: "Interests & Skills"
+title: "技能兴趣"
 permalink: /skills/
 author_profile: true
 ---
 
-### Language skills
-* TOEFL 103 (My Best Score)
-	* Writing 28, Listening 25, Speaking 22, Reading 28
-* Duolingo English Test 125 (Over all)
-	* Literacy 130, Conversation 115, Comprehension 130, Production 120
-* CET-6 501
-* CET-4 575
+### 语言能力
+* 托福 103 (My Best Score)
+	* 写作 28, 听力 25, 口语 22, 阅读 28
+* 多邻国英语测试 125 (Over all)
+	* 读写 130, 对话 115, 理解 130, 写作 120
+* 大学英语六级 501
+* 大学英语四级 575
 
-### Coding skills
+### 编程能力
 
-* Certification in COURSERA
+* COURSERA证书
 	* [Introduction to Artificial Intelligence (AI)](https://eveyuyi.github.io/files/ARCHIEVE_Coursera_Certification_AI_2020.pdf)
 
-* National computer rank examination
-	* Certification of Level 1 
-	* Certification of Level 2 
+* 全国计算机等级考试
+	* 一级合格证书
+	* 二级合格证书
 
 * Python, SQL, Matlab
 
-### Softwares
+### 软件
 * TransCAD, VISSIM
 * CAD, Revit, Sketch Up
 * Photoshop
 
 
 
-### Other skills
-* Occupational Qualification Certificate
-	* 4th Level Human Resource Manager
+### 其他
+* 职业资格证书
+	* 四级企业人力资源管理师
 
-### Interests
-* Badminton, Rock climbing
+### 兴趣
+* 羽毛球, 攀岩
  
 
 
