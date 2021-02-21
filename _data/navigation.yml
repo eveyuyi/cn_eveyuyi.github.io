@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "成果"
     url: /publications/
 
-  - title: "Projects"
+  - title: "项目"
     url: /projects/    
 
-  - title: "Activities"
+  - title: "校园活动"
     url: /activities/    
     
-  - title: "Interests & Skills"
+  - title: "技能"
     url: /skills/
    
-  - title: "Honors"
+  - title: "奖项"
     url: /honors/
  
   - title: "CV"
     url: /cv/
     
-  - title: "中文"
-    url: "https://github.com/eveyuyi/eveyuyi.github.io/graphs/traffic"
+  - title: "English"
+    url: "https://eveyuyi.github.io"
