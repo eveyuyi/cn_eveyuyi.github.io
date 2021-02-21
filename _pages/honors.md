@@ -1,28 +1,29 @@
 ---
-title: "Honors"
+title: "荣誉奖项"
 permalink: /honors/
 author_profile: true
 ---
 
 ## Doctoral Periods
-* Scholarship to sponsor abroad study from the Chinese Government Scholarship Council (2020)
-* Excellent Postgraduate Student Award of Zhejiang University (2019-2020)
-* 2nd prize in the mixed team of the Zhejiang University's Badminton Competition (2019)
-* Outstanding Postgraduate Student Leader Award of Zhejiang University (2017-2018)
-* Excellent Postgraduate Student Award of Zhejiang University (2017-2018)
-* Third-Class Scholarship of Zhejiang University Education Foundation "Wason Scholarship" (2017-2018)
-* 3rd prize of the Zhejiang University "Dandelion" Innovation and Entrepreneurship Competition (2017)
+* 国家留学基金委对外交流奖学金 (2020)
+* 浙江大学优秀研究生 (2019-2020)
+* 浙江大学"三好杯"羽毛球竞赛 混合团体第二名 (2019)
+* 浙江大学优秀研究生干部 (2017-2018)
+* 浙江大学优秀研究生 (2017-2018)
+* 浙江大学教育基金会三等奖学金"华森奖学金三等奖" (2017-2018)
+* 浙江大学蒲公英创新创业大赛 三等奖 (2017)
 
 
 
 ## Bachelor Periods
-* Third-class Scholarship of Zhejiang University (2016-2017)
-* Excellent Student Award of Zhejiang University (2016-2017)
-* 3rd prize in 11th 'Challenge Cup' College Student Entrepreneur Competition of Zhejiang University (2017)
-* 2nd prize in National Civil Engineering Undergraduate Innovation Contest (2016)
-* "Three-star Honor" for young volunteers of Zhejiang University (2016)
-* 2nd prize in 3rd Career Planning Contest of Zhejiang University  (2016)
-* 2nd prize in 17th Structure Design Contest of Zhejiang University (2016)
-* Finalist Award in "Vanke Cup" Business Competition (2015)
-* Outstanding Student Leader Award of Zhejiang University (2014-2015)
-* Outstanding Student Leader Award of Zhejiang University (2013-2014)
+* 浙江大学优秀学生（三好学生）(2016-2017)
+* 浙江大学优秀学生三等奖学金 (2016-2017)
+* 浙江大学学业三等奖学金 (2016-2017)
+* 浙江大学第十五届"挑战杯"大学生课外学术科技作品竞赛 三等奖 (2017)
+* 全国土木工程专业本科生优秀创新实践成果 二等奖 (2016)
+* 浙江大学青年志愿者服务"三星级荣誉奖" (2016)
+* 浙江大学"中天杯"第十七届大学生结构设计竞赛 二等奖 (2016)
+* 浙江大学第三届大学生职业生涯规划大赛 二等奖 (2016)
+* "万科杯"全国地产精英挑战赛 入围奖 (2015)
+* 浙江大学"优秀团干部"荣誉称号 (2014-2015)
+* 浙江大学求是学院"优秀共青团干部" (2013-2014)
