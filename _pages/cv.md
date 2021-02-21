@@ -4,9 +4,9 @@ permalink: /cv/
 author_profile: true
 ---
 
-<embed src="https://eveyuyi.github.io/files/CV_eveyu.pdf" type="application/pdf" height="300px"/>
+<embed src="https://eveyuyi.github.io/cn_eveyuyi.github.io/files/CV_eveyu.pdf" type="application/pdf" height="300px"/>
 
-* [CV in PDF](https://eveyuyi.github.io/files/CV_eveyu.pdf)
+* [CV in PDF](https://eveyuyi.github.io/cn_eveyuyi.github.io/files/CV_eveyu.pdf)
 
 
 <!-- 

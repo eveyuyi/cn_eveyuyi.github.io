@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YI YU - Homepage"
+title                    : "俞怡 - 首页"
 title_separator          : "-"
-name                     : &name "YI YU"
-description              : &description "Ph.D. candidate"
-url                      : https://eveyuyi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "俞怡"
+description              : &description "博士研究生"
+url                      : https://eveyuyi.github.io/cn_eveyuyi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "eveyuyi/eveyuyi.github.io"
+repository               : "eveyuyi.github.io/cn_eveyuyi.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,18 +80,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Yi Yu"
+  name             : "俞怡"
   avatar           : "YU.png"
   bio              : |
-    PhD candidate <br>
-    Transportation Engineering <br>
-    Zhejiang University & <br>
-    Imperial College London <br>
+    浙江大学 <br>
+    智能交通研究所 <br>
+    博士研究生 & <br>
+    英国帝国理工 <br>
+    联合培养博士生 <br>
     <br>
-    818 Yuhangtang Rd. <br>
-    Xihu district, Hangzhou<br>
-    Zhejiang, China <br>
-  location         : "Hangzhou, China"
+    浙江省杭州市西湖区  <br>
+    浙大紫金港校区  <br>
+    安中大楼B818  <br>
+   
+  location         : "中国，杭州"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LhvFkBoAAAAJ&hl"
