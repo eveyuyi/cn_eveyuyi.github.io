@@ -8,34 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in the Department of Civil Engineering and Architecture at [Zhejiang University](https://www.zju.edu.cn) and joint training PhD student at [Imperial College London](https://www.imperial.ac.uk), major in transportation engineering. I received my bachelor's degree in Civil Engineering and a minor in law from [Zhejiang University](https://www.zju.edu.cn) in 2017. Since 2013, I have studied in and visited several universities, including Zhejiang University, Imperial College London, University of Tokyo, Waseda University, University of Toronto, University of Ottawa, Western University, Queens Unversity, York University. My research interests are urban network traffic state identification and traffic flow modeling. I have published several articles and participated in a couple of national and municipal research projects related to my research interests.
+[浙江大学](https://www.zju.edu.cn)建筑工程学院智能交通研究所博士生，[英国帝国理工学院](https://www.imperial.ac.uk)交通研究中心联合培养博士生。2017年毕业于浙江大学，主修土木工程专业，辅修法学专业。研究领域包括智能交通系统、交通状态分析、交通流理论及建模等。2013年至今，曾先后在浙江大学、约克大学、多伦多大学、渥太华大学、西安大略、女王大学、东京大学、早稻田大学学习和交流。致力于大数据驱动的城市交通状态描述与分析，复杂城市路网交通流建模与预测，基于拓扑的交通效率分析等研究。参与多项国家自然科学基金，“杭州城市大脑”智慧交通等科研项目。受[国家留学基金委](https://www.csc.edu.cn)资助对外交流一年。以第一作者在IEEE ACCESS等国际期刊发表SCI论文1篇，多篇SCI论文在审，申请国家发明专利6项，软件著作权2项。
 
-As a curious and passionate learner, I also cover knowledge of various areas, such as law, computer science, economics, social science, etc. During my spare time, I actively involved in student activities and volunteerings. I hope the world could become slightly better owning to my contribution. I'm also a geek, fascinated productivity tools like Python, SQL, ArcGIS, Notion, Matlab, Photoshop, CAD...
+"充满好奇"、"渴望知识"、"勇于尝试"。除专业领域外，广泛涉猎法学、计算机科学、社会科学、经济等领域的知识。在课余时间积极参与学生工作、实习和志愿服务。高效行动派，热衷于使用使用Python, SQL, Arcgis, Notion等工具，相信合适的工具能最大化生产力，最高效完成工作。
 
 
-
-Education
+教育经历
 =====
 
 | :-----| :----- | :----- |
-| 2020.12- | Joint PhD | Imperial College London | Transportation Engineering | Joint training PhD student <br> supported by [CSC](https://www.csc.edu.cn) |
-| 2017.09- | PhD | Zhejiang University | Transportation Engineering | GPA 92.2/100 Rank 3/53|
-| 2013.09-2017.06 | B.S. | Zhejiang University | Civil Engineering | GPA 3.72/4.0 <br> Postgraduate recommendation|
-| 2013.09-2017.06  | Minor | Zhejiang University | Law | GPA 3.78/4.0 Graduates|
-| 2019.08 | Exchange | University of Tokyo, <br> Waseda University | Transportation Engineering | Academic Seminar & Presentations |
-| 2018.08  | Exchange | University of Toronto, <br> University of Ottawa | Transportation Engineering | Academic Seminar & Presentations |
-| 2014.01-2014.02  | Exchange | York University | Civil Engineering | Academic & Culture Lectures |
+| 2020.12- | 联培 | 帝国理工学院 | 交通工程 | 联合培养博士研究生 <br> [国家留学基金委资助](https://www.csc.edu.cn) |
+| 2017.09- | 博士 | 浙江大学 | 交通工程 | GPA 92.2/100 Rank 3/53|
+| 2013.09-2017.06 | 学士 | 浙江大学 | 土木工程 | GPA 3.72/4.0 <br> 保送研究生|
+| 2013.09-2017.06  | 辅修 | 浙江大学 | 法学 | GPA 3.78/4.0 毕业|
+| 2019.08 | 交流 | 东京大学, <br> 早稻田大学 | 交通工程 | 专业学术报告 & 学科交流 |
+| 2018.08  | 交流 | 多伦多大学, <br> 渥太华大学等 | 交通工程 | 专业学术报告 & 学科交流 |
+| 2014.01-2014.02  | 交流 | 约克大学 | 土木工程 | 学科讲座 & 当地文化交流 |
 
 
-Research Interests
+研究领域
 ======
-* Traffic State Estimation
-* Traffic Flow Modeling  
-* Intelligent Traffic System 
-* Traffic Network Topology 
+* 交流状态分析
+* 交通流建模 
+* 智能交通
+* 交通网络拓扑 
 
 
-Selected Publications
+代表性论文
 ======
 * Y. Yu, M. Chen, H. Qi, and D. Wang, [Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover](https://ieeexplore.ieee.org/abstract/document/8976161/) in IEEE Access, vol. 8, pp. 32850-32861, 2020.
 * Yu Y, Cui Y, Zeng J, He C, Wang D (2021) Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications, under review.
