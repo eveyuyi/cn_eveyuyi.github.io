@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "科研成果"
 permalink: /publications/
 author_profile: true
 ---
