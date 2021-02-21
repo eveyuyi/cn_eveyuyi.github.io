@@ -9,10 +9,10 @@ main:
   - title: "校园履历"
     url: /activities/    
     
-  - title: "技能"
+  - title: "技能兴趣"
     url: /skills/
    
-  - title: "奖项"
+  - title: "荣誉奖项"
     url: /honors/
  
   - title: "个人简历"
