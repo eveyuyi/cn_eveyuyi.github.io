@@ -4,6 +4,11 @@ permalink: /activities/
 author_profile: true
 ---
 
+### 学术兼职
+
+* 2019.09- , TRB (Transportation Research Board) Annual Meeting（全球交通研究学术会议） 审稿人
+* 2020.01- , IEEE ACCESS 审稿人
+
 
 ### 学生工作
 
