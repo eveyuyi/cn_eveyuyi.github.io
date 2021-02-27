@@ -8,7 +8,7 @@ author_profile: true
 
 * 2019.09- , TRB (Transportation Research Board) Annual Meeting（全球交通研究学术会议） 审稿人
 * 2020.01- , IEEE ACCESS (SCI期刊，影响因子4.098) 审稿人
-
+* 2020.120 , 英国土木工程师学会 (ICE) 成员
 
 ### 学生工作
 
