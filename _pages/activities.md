@@ -10,6 +10,9 @@ author_profile: true
 * 2020.01- , IEEE ACCESS (SCI期刊，影响因子4.098) 审稿人
 * 2020.120 , [英国土木工程师学会](https://ice.org.uk) (ICE) 成员
 
+### 学术会议
+* 2021.03 , 参与[AI UK](https://www.turing.ac.uk/ai-uk)会议(由英国图灵协会主办)。An online event hosted by the Turing to showcase the very best of UK academic work in artificial intelligence (AI); bringing together leading thinkers, innovative businesses and specialist third sector bodies.
+
 
 ### 企业实习
 
