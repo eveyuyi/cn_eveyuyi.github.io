@@ -27,6 +27,10 @@ author_profile: true
 
 * Yu Y, Chen M, Qi H, Wang D (2020) Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover, 出版. IEEE Access, vol. 8, pp. 32850-32861. (doi:[10.1109/ACCESS.2020.2970530](https://eveyuyi.github.io/files/Copula_Based_Travel_Time_Distribution_Estimation))
 
+## 国内期刊论文
+
+* 俞怡, 曾佳棋, 王殿海 (2021) 基于数据采样方法的城市道路自由流行程时间估计. 浙大学报(工学版), 接收.
+
 
 ## 国家发明专利
 
