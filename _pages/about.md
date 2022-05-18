@@ -39,16 +39,15 @@ redirect_from:
 代表性论文
 ======
 
-* Qi H, Yu Y, Tang Q, Hu X (2021) Investigation of intersection traffic deadlock formation and the probability with a petri net-based modeling approach. Transportmetrica B, 接收. 
+* 俞怡, 曾佳棋, 王殿海 (2022) 基于数据采样方法的城市道路自由流行程时间估计. 浙江大学学报(工学版), 接收.
 
-* 俞怡, 曾佳棋, 王殿海 (2021) 基于数据采样方法的城市道路自由流行程时间估计. 浙江大学学报(工学版), 接收.
+* Yu, Y., Cui, Y., Zeng, J., He, C., Wang, D., 2022. Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications 591, 126750. https://doi.org/10.1016/j.physa.2021.126750
 
-* Yu Y, Cui Y, Zeng J, He C, Wang D (2021) Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications, 在审.
+* Cui, Y., Yu, Y., Cai, Z., Wang, D., 2022. Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach. J. Urban Plann. Dev. 148, 04021062. https://doi.org/10.1061/(ASCE)UP.1943-5444.0000780
 
-* Cui Y, Yu Y, Cai Z, et al. Optimizing road network density considering automobile traffic efficiency: theoretical approach. Journal of Urban Planning and Development, 2022, 148(1): 04021062. DOI:10.1061/(ASCE)UP.1943-5444.0000780.
+* Zeng, J., Wang, D., Zhang, G., Yu, Y., Cai, Z., 2021. Passenger-to-Car Assignment Optimization Model for High-Speed Railway with Risk of COVID-19 Transmission Consideration. Mathematical Problems in Engineering 2021, e7121010. https://doi.org/10.1155/2021/7121010
 
-* Zeng J, Wang D, Zhang Z, Yu Y, Hu Y, Cai Z (2021) A Passenger-to-Car Assignment Optimization Model for high-speed railway with risk of COVID-19 transmission consideration. Journal of Advanced Transportation, 在审.
+* Cui, Y., Yu, Y., Wang, D., 2021. Impact of the Link Length on the Delay in Two-Way Signal Coordination. IEEE Access 9, 130823–130833. https://doi.org/10.1109/ACCESS.2021.3113695
 
-* Cui Y, Yu Y, Wang D. Impact of the link length on the delay in two-way signal coordination. IEEE Access, 2021, 9: 130823–130833. DOI:10.1109/ACCESS.2021.3113695.
 
-* Yu Y, Chen M, Qi H, Wang D (2020) Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. IEEE Access, vol. 8, pp. 32850-32861. (doi:[10.1109/ACCESS.2020.2970530](https://eveyuyi.github.io/files/Copula_Based_Travel_Time_Distribution_Estimation))
+* Yu, Y., Chen, M., Qi, H., Wang, D., 2020. Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. IEEE Access 8, 32850–32861. https://doi.org/10.1109/ACCESS.2020.2970530
