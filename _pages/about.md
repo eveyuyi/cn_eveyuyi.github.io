@@ -18,8 +18,8 @@ redirect_from:
 =====
 
 | :-----| :----- | :----- |
-| 2020.12- | 联培 | [帝国理工学院](https://www.imperial.ac.uk) | 交通工程 | 联合培养博士研究生 <br> [国家留学基金委资助](https://www.csc.edu.cn) |
 | 2017.09- | 博士 | [浙江大学](https://www.zju.edu.cn) | 交通工程 | 绩点 92.2/100 排名 3/53|
+| 2020.12-2022.05 | 联培 | [帝国理工学院](https://www.imperial.ac.uk) | 交通工程 | 联合培养博士研究生 <br> [国家留学基金委资助](https://www.csc.edu.cn) |
 | 2013.09-2017.06 | 学士 | [浙江大学](https://www.zju.edu.cn) | 土木工程 | 绩点 3.72/4.0 <br> 保送研究生|
 | 2013.09-2017.06  | 辅修 | [浙江大学](https://www.zju.edu.cn) | 法学 | 绩点 3.78/4.0 辅修毕业|
 | 2019.08 | 交流 | [东京大学](https://www.u-tokyo.ac.jp/ja/index.html), <br> [早稻田大学](https://www.waseda.jp/top/) | 交通工程 | 专业学术报告 & 学科交流 |
