@@ -13,7 +13,7 @@ author_profile: true
 
 | 时间 | 项目主题 | 资助方 | 项目金额 | 角色 |
 | :-----| :----- | :----- | :----- |
-| 2018- | [杭州城市大脑](https://hzcitybrain.hangzhou.gov.cn/#/) - [萧山区智慧交通](http://www.xiaoshan.gov.cn/art/2019/6/5/art_1302903_34474561.html) <!-- [杭州城市大脑](https://kaimaoge.github.io/) (杭州市城市大脑-萧山区交通小脑- ） --> | 杭州市政府 | ￥4,500,000 | 主要参与人<br>负责交通运行态势研判模块、交通安全态势研判模块 |
+| 2018.09-2021.05 | [杭州城市大脑](https://hzcitybrain.hangzhou.gov.cn/#/) - [萧山区智慧交通](http://www.xiaoshan.gov.cn/art/2019/6/5/art_1302903_34474561.html) <!-- [杭州城市大脑](https://kaimaoge.github.io/) (杭州市城市大脑-萧山区交通小脑- ） --> | 杭州市政府 | ￥4,500,000 | 主要参与人<br>负责交通运行态势研判模块、交通安全态势研判模块 |
 | 2022.01-2026.12 | 基于大数据的城市交通本征获取与需求结构优化控制 | 国家自然科学基金项目 (No.Unknown) | ￥3,090,000 | 主要参与人 |
 | 2021.01-2024.12 | 基于多源异构大数据的城市交通本征获取 | 国家自然科学基金项目 (No.52072340) | ￥648,000 | 主要参与人 |
 | 2018.01-2021.12 | 基于系统动力学的城市交通结构控制 | 国家自然科学基金项目 (No.61773338) | ￥640,000 | 主要参与人 |
@@ -27,7 +27,7 @@ author_profile: true
 
 | 时间 | 项目主题 | 资助方 | 项目金额 | 角色 |
 | :-----| :----- | :----- |
-| 2020.12- | 联合培养博士生 | [帝国理工学院](https://www.imperial.ac.uk) | [国家留学基金委资助](https://www.csc.edu.cn) | 科研合作，组会交流 |
+| 2020.12-2022.05 | 联合培养博士生 | [帝国理工学院](https://www.imperial.ac.uk) | [国家留学基金委资助](https://www.csc.edu.cn) | 科研合作，组会交流 |
 | 2019.08 | Go Global | [东京大学](https://www.u-tokyo.ac.jp/ja/index.html), <br> [早稻田大学](https://www.waseda.jp/top/) | 浙江大学 | 专业学术报告 & 学科交流 |
 | 2018.08  | Go Global | [多伦多大学](https://www.utoronto.ca)、[渥太华大学](https://www.uottawa.ca/en)、[西安大略](https://www.uwo.ca)、[女王大学](https://www.queensu.ca) | 浙江大学 | 专业学术报告 & 学科交流 |
 
