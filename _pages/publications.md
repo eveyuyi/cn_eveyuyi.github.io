@@ -17,25 +17,17 @@ author_profile: true
 
 ## 国际期刊论文
 
-* He C., Wang D., Yu Y., Cai Z., 2022. A Hybrid Deep Learning Model for Link Dynamic Vehicle Count Forecasting with Bayesian Optimization. Journal of Advanced Transportation, 在审
+* Y. Yu, Y. Cui, J. Zeng, C. He, and D. Wang, “Identifying traffic clusters in urban networks based on graph theory using license plate recognition data,” Physica A: Statistical Mechanics and its Applications, vol. 591, p. 126750, 2022, doi: 10.1016/j.physa.2021.126750.
+* J. Zeng, Y. Yu, Y. Chen, D. Yang, L. Zhang, and D. Wang, “Trajectory-as-a-Sequence: A novel travel mode identification framework,” Transportation Research Part C: Emerging Technologies, vol. 146, p. 103957, Jan. 2023, doi: 10.1016/j.trc.2022.103957.
+* H. Qi, Y. Yu, Q. Tang, and X. Hu, “Intersection traffic deadlock formation and its probability: A petri net-based modeling approach,” IET Intelligent Transport Systems, vol. n/a, no. n/a, doi: 10.1049/itr2.12210.
+* C. He, D. Wang, Y. Yu, and Z. Cai, “A Hybrid Deep Learning Model for Link Dynamic Vehicle Count Forecasting with Bayesian Optimization,” Journal of Advanced Transportation, vol. 2023, p. e5070504, Feb. 2023, doi: 10.1155/2023/5070504.
+* Y. Cui, Y. Yu, Z. Cai, and D. Wang, “Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach,” J. Urban Plann. Dev., vol. 148, no. 1, p. 04021062, Mar. 2022, doi: 10.1061/(ASCE)UP.1943-5444.0000780.
 
-* Qi H, Yu Y, Tang Q, Hu X (2021) Investigation of intersection traffic deadlock formation and the probability with a petri net-based modeling approach. Transportmetrica B, 在审. 
-
-* Yu, Y., Cui, Y., Zeng, J., He, C., Wang, D., 2022. Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications 591, 126750. https://doi.org/10.1016/j.physa.2021.126750
-
-* Cui, Y., Yu, Y., Cai, Z., Wang, D., 2022. Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach. J. Urban Plann. Dev. 148, 04021062. https://doi.org/10.1061/(ASCE)UP.1943-5444.0000780
-
-* Zeng, J., Wang, D., Zhang, G., Yu, Y., Cai, Z., 2021. Passenger-to-Car Assignment Optimization Model for High-Speed Railway with Risk of COVID-19 Transmission Consideration. Mathematical Problems in Engineering 2021, e7121010. https://doi.org/10.1155/2021/7121010
-
-* Cui, Y., Yu, Y., Wang, D., 2021. Impact of the Link Length on the Delay in Two-Way Signal Coordination. IEEE Access 9, 130823–130833. https://doi.org/10.1109/ACCESS.2021.3113695
-
-* Yu, Y., Chen, M., Qi, H., Wang, D., 2020. Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. IEEE Access 8, 32850–32861. https://doi.org/10.1109/ACCESS.2020.2970530
 
 
 ## 国内期刊论文
 
-* 俞怡, 曾佳棋, 王殿海 (2022) 基于数据采样方法的城市道路自由流行程时间估计. 浙江大学学报(工学版), 接收.
-
+* 俞怡, 曾佳棋和王殿海, 《基于数据采样方法的城市道路自由流行程时间估计》, 浙江大学学报(工学版), 卷 56, 期 06, 页 1241–1248, 2022.
 
 ## 国家发明专利
 

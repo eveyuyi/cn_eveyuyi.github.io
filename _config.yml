@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "俞怡 - 首页"
 title_separator          : "-"
 name                     : &name "俞怡"
-description              : &description "博士研究生"
+description              : &description "博士，青年研究员"
 url                      : https://eveyuyi.github.io/cn_eveyuyi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eveyuyi.github.io/cn_eveyuyi.github.io/"
@@ -83,16 +83,14 @@ author:
   name             : "俞怡博士"
   avatar           : "YU.png"
   bio              : |
-    浙江大学 智能交通研究所<br>
-    博士研究生 & <br>
-    英国 帝国理工学院 <br>
-    联合培养博士生 <br>
+    上海人工智能实验室<br>
+    青年研究员 & <br>
     <br>
-    浙江省杭州市西湖区  <br>
-    浙大紫金港校区  <br>
-    安中大楼B818  <br>
+    上海市徐汇区  <br>
+    云锦路国际传媒港  <br>
+    L1楼  <br>
    
-  location         : "中国，杭州"
+  location         : "上海市"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LhvFkBoAAAAJ&hl"
