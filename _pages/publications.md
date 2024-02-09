@@ -16,16 +16,32 @@ author_profile: true
 
 
 ## 国际期刊论文
+* Zeng, J, Yu, Y, Chen, Y, Yang, D, Zhang, L, and Wang, D (2023). Trajectory-as-a-Sequence: A novel travel mode identification framework. Transportation Research Part C: Emerging Technologies 146, 103957. 10.1016/j.trc.2022.103957.
 
-* Y. Yu, Y. Cui, J. Zeng, C. He, and D. Wang, “Identifying traffic clusters in urban networks based on graph theory using license plate recognition data,” Physica A: Statistical Mechanics and its Applications, vol. 591, p. 126750, 2022, doi: 10.1016/j.physa.2021.126750.
-* J. Zeng, Y. Yu, Y. Chen, D. Yang, L. Zhang, and D. Wang, “Trajectory-as-a-Sequence: A novel travel mode identification framework,” Transportation Research Part C: Emerging Technologies, vol. 146, p. 103957, Jan. 2023, doi: 10.1016/j.trc.2022.103957.
-* H. Qi, Y. Yu, Q. Tang, and X. Hu, “Intersection traffic deadlock formation and its probability: A petri net-based modeling approach,” IET Intelligent Transport Systems, vol. n/a, no. n/a, doi: 10.1049/itr2.12210.
-* C. He, D. Wang, Y. Yu, and Z. Cai, “A Hybrid Deep Learning Model for Link Dynamic Vehicle Count Forecasting with Bayesian Optimization,” Journal of Advanced Transportation, vol. 2023, p. e5070504, Feb. 2023, doi: 10.1155/2023/5070504.
-* Y. Cui, Y. Yu, Z. Cai, and D. Wang, “Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach,” J. Urban Plann. Dev., vol. 148, no. 1, p. 04021062, Mar. 2022, doi: 10.1061/(ASCE)UP.1943-5444.0000780.
+* Qi, H, Yu, Y, Tang, Q, and Hu, X (2022). Intersection traffic deadlock formation and its probability: A petri net-based modeling approach. IET Intelligent Transport Systems 16, 1342–1363. 10.1049/itr2.12210. 
+
+* Yu Y, Zeng J, Wang D (2021) Free-flow travel time estimation in urban roads based on a data sampling method. Journal of Zhejiang University(Engineering Science), Journal of Zhejiang University (Engineering Science)
+
+* Yu, Y, Cui, Y, Zeng, J, He, C, and Wang, D (2022). Identifying traffic clusters in urban networks based on graph theory using license plate recognition data. Physica A: Statistical Mechanics and its Applications 591, 126750. 10.1016/j.physa.2021.126750.
+
+* Cui Y, Yu Y, Cai Z, et al. Optimizing road network density considering automobile traffic efficiency: theoretical approach. Journal of Urban Planning and Development, 2022, 148(1): 04021062. DOI:10.1061/(ASCE)UP.1943-5444.0000780.
+
+* Zeng J, Wang D, Zhang Z, Yu Y, Hu Y, Cai Z (2021) A Passenger-to-Car Assignment Optimization Model for high-speed railway with risk of COVID-19 transmission consideration. Journal of Advanced Transportation, under review.
+
+* Cui Y, Yu Y, Wang D. Impact of the link length on the delay in two-way signal coordination. IEEE Access, 2021, 9: 130823–130833. DOI:10.1109/ACCESS.2021.3113695.
+
+* Yu Y, Chen M, Qi H, Wang D (2020) Copula-Based Travel Time Distribution Estimation Considering Channelization Section Spillover. IEEE Access, vol. 8, pp. 32850-32861. (doi:[10.1109/ACCESS.2020.2970530](https://eveyuyi.github.io/files/Copula_Based_Travel_Time_Distribution_Estimation))
+
+国际会议论文
+======
+* Yu, Y., Yao, S., Wang, K., Chen, Y., Wang, F.-Y., and Lin, Y. (2023). Pursuing Equilibrium of Medical Resources via Data Empowerment in Parallel Healthcare System. In 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 3186–3191. 10.1109/SMC53992.2023.10394360.
+* Yu, Y., Yao, S., Li, J., Wang, F.-Y., and Lin, Y. (2023). SWDPM: A Social Welfare-Optimized Data Pricing Mechanism. In 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 2900–2906. 10.1109/SMC53992.2023.10394049.
+* Lv, X., Yu, Y., Xie, X., Wang, F.-Y., Lin, Y., and Chen, Y. (2023). Optimize the Accessibility of Healthcare Facilities via ACP-Based Approach. In 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 4034–4039. 10.1109/SMC53992.2023.10394054.
 
 
 
 ## 国内期刊论文
+* 王惠珍, 张捷, 俞怡, 赵琳, 李葵南, 马慧颖, 祁肖静, 王静, 王雨桐, 林懿伦, 许力, 申乐, 李汉忠, 王飞跃. 平行手术室:围术期护理流程与智慧手术平台管理的新模式. 模式识别与人工智能, 2023, 36(10): 867-876.
 
 * 俞怡, 曾佳棋和王殿海, 《基于数据采样方法的城市道路自由流行程时间估计》, 浙江大学学报(工学版), 卷 56, 期 06, 页 1241–1248, 2022.
 
