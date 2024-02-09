@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "科研成果"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "项目经历"
+    url: /projects/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "校园履历"
+    url: /activities/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
+  - title: "技能兴趣"
+    url: /skills/
+   
+  - title: "荣誉奖项"
+    url: /honors/
+ 
+  - title: "个人简历"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "English"
+    url: "https://eveyuyi.github.io"

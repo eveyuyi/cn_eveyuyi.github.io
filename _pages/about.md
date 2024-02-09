@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,46 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+博士，上海人工智能实验室青年研究员。
+博士，毕业于浙江大学。曾任英国帝国理工交通研究中心访问学者，现任上海人工智能实验室助理研究员。曾参与多项国家自然科学基金课题及“杭州城市大脑”智慧交通等科研项目，并担任多个国际会议审稿人。在智能交通、大数据及智慧城市等领域发表学术论文近10篇。主要研究方向包括数据要素化、数据交易与定价、复杂系统机理建模及资源优化配置等。
 
-A data-driven personal website
+博士毕业于浙江大学，曾于英国帝国理工交通研究中心做访问学者。研究领域包括数据要素化、智能交通系统、交通流理论及建模等，致力于多方博弈下的数据交易与定价建模，大数据驱动的城市交通状态描述与分析，复杂城市路网交通流建模与预测等研究。参与多项国家自然科学基金课题及“杭州城市大脑”智慧交通等科研项目。兼任TRB (Transportation Research Board) Annual Meeting等国际会议审稿人。
+
+2022年博士毕业于[浙江大学](https://www.zju.edu.cn)，师从[王殿海教授](https://person.zju.edu.cn/0010034#0)，2020-2022年[英国帝国理工](https://www.imperial.ac.uk)[交通研究中心](http://www.imperial.ac.uk/transport-studies)联合培养博士生，师从[Ochieng院士](http://www.imperial.ac.uk/people/w.ochieng)。2017年毕业于浙江大学，主修土木工程，辅修法学。2013年至今，曾先后在浙江大学、[约克大学](https://www.york.ac.uk)、[多伦多大学](https://www.utoronto.ca)、[渥太华大学](https://www.uottawa.ca/en)、[西安大略](https://www.uwo.ca)、[女王大学](https://www.queensu.ca)、[东京大学](https://www.u-tokyo.ac.jp/ja/index.html)、[早稻田大学](https://www.waseda.jp/top/)、[英国帝国理工学院](https://www.imperial.ac.uk)等学习和交流。主要研究方向包括数据要素化、数据交易与定价、复杂系统机理建模及资源优化配置等。在智能交通、大数据及智慧城市等领域发表学术论文近10篇。参与多项国家自然科学基金课题及“杭州城市大脑”智慧交通等科研项目。在Transportation Research Part C, Journal of Urban Planning and Development, Physica A等国际期刊发表SCI检索论文8篇，EI检索论文1篇，申请国家发明专利6项，软件著作权2项。兼任TRB (Transportation Research Board) Annual Meeting, IEEE ACCESS等国际会议、SCI期刊审稿人。受[国家留学基金委](https://www.csc.edu.cn)资助公派交流。
+
+
+<!-- "充满好奇"、"渴望知识"、"勇于尝试"：除专业领域外，广泛涉猎法学、计算机科学、社会科学、经济等领域的知识；课余时间积极参与学生工作、实习和志愿服务；高效行动派，热衷使用Python, SQL, Notion, Arcgis, Matlab等工具，相信合适的工具能最大化生产力，高效工作。 -->
+
+
+教育经历
+=====
+
+| :-----| :----- | :----- |
+| 2017.09-2022.06 | 博士 | [浙江大学](https://www.zju.edu.cn) | 交通工程 | 绩点 92.2/100 排名 3/53|
+| 2020.12-2022.05 | 联培 | [帝国理工学院](https://www.imperial.ac.uk) | 交通工程 | 联合培养博士研究生 <br> [国家留学基金委资助](https://www.csc.edu.cn) |
+| 2013.09-2017.06 | 学士 | [浙江大学](https://www.zju.edu.cn) | 土木工程 | 绩点 3.72/4.0 <br> 保送研究生|
+| 2013.09-2017.06  | 辅修 | [浙江大学](https://www.zju.edu.cn) | 法学 | 绩点 3.78/4.0 辅修毕业|
+| 2019.08 | 交流 | [东京大学](https://www.u-tokyo.ac.jp/ja/index.html), <br> [早稻田大学](https://www.waseda.jp/top/) | 交通工程 | 专业学术报告 & 学科交流 |
+| 2018.08  | 交流 | [多伦多大学](https://www.utoronto.ca), <br> [渥太华大学](https://www.uottawa.ca/en)等 | 交通工程 | 专业学术报告 & 学科交流 |
+| 2014.01-2014.02  | 交流 | [约克大学](https://www.york.ac.uk) | 土木工程 | 学科讲座 & 当地文化交流 |
+
+
+
+研究领域
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* 城市交通系统分析
+* 城市交通流状态分析
+* 交通流建模 
+* 智能交通
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+代表性论文
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* Y. Yu, Y. Cui, J. Zeng, C. He, and D. Wang, “Identifying traffic clusters in urban networks based on graph theory using license plate recognition data,” Physica A: Statistical Mechanics and its Applications, vol. 591, p. 126750, 2022, doi: 10.1016/j.physa.2021.126750.
+* J. Zeng, Y. Yu, Y. Chen, D. Yang, L. Zhang, and D. Wang, “Trajectory-as-a-Sequence: A novel travel mode identification framework,” Transportation Research Part C: Emerging Technologies, vol. 146, p. 103957, Jan. 2023, doi: 10.1016/j.trc.2022.103957.
+* H. Qi, Y. Yu, Q. Tang, and X. Hu, “Intersection traffic deadlock formation and its probability: A petri net-based modeling approach,” IET Intelligent Transport Systems, vol. n/a, no. n/a, doi: 10.1049/itr2.12210.
+* C. He, D. Wang, Y. Yu, and Z. Cai, “A Hybrid Deep Learning Model for Link Dynamic Vehicle Count Forecasting with Bayesian Optimization,” Journal of Advanced Transportation, vol. 2023, p. e5070504, Feb. 2023, doi: 10.1155/2023/5070504.
+* Y. Cui, Y. Yu, Z. Cai, and D. Wang, “Optimizing Road Network Density Considering Automobile Traffic Efficiency: Theoretical Approach,” J. Urban Plann. Dev., vol. 148, no. 1, p. 04021062, Mar. 2022, doi: 10.1061/(ASCE)UP.1943-5444.0000780.
+* 俞怡, 《基于车牌识别数据的城市交通状态评价方法》, 博士, 浙江大学, 2022. doi: 10.27461/d.cnki.gzjdx.2022.001365.
+* 俞怡, 曾佳棋和王殿海, 《基于数据采样方法的城市道路自由流行程时间估计》, 浙江大学学报(工学版), 卷 56, 期 06, 页 1241–1248, 2022.
